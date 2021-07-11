@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-typescript-sample/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-typescript-sample/static/js/main.b8962bb3.chunk.js",
+    "main.js.map": "/react-typescript-sample/static/js/main.b8962bb3.chunk.js.map",
+    "runtime-main.js": "/react-typescript-sample/static/js/runtime-main.ffd4e25d.js",
+    "runtime-main.js.map": "/react-typescript-sample/static/js/runtime-main.ffd4e25d.js.map",
+    "static/js/2.f33f41bb.chunk.js": "/react-typescript-sample/static/js/2.f33f41bb.chunk.js",
+    "static/js/2.f33f41bb.chunk.js.map": "/react-typescript-sample/static/js/2.f33f41bb.chunk.js.map",
+    "static/js/3.91252fa5.chunk.js": "/react-typescript-sample/static/js/3.91252fa5.chunk.js",
+    "static/js/3.91252fa5.chunk.js.map": "/react-typescript-sample/static/js/3.91252fa5.chunk.js.map",
+    "index.html": "/react-typescript-sample/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-typescript-sample/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f33f41bb.chunk.js.LICENSE.txt": "/react-typescript-sample/static/js/2.f33f41bb.chunk.js.LICENSE.txt",
+    "static/media/cancel.c0208fb6.svg": "/react-typescript-sample/static/media/cancel.c0208fb6.svg",
+    "static/media/delete.6dcadd95.svg": "/react-typescript-sample/static/media/delete.6dcadd95.svg",
+    "static/media/edit.9de65eb5.svg": "/react-typescript-sample/static/media/edit.9de65eb5.svg",
+    "static/media/save.a9b279a8.svg": "/react-typescript-sample/static/media/save.a9b279a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd4e25d.js",
+    "static/js/2.f33f41bb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b8962bb3.chunk.js"
+  ]
+}
